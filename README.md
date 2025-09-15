@@ -1,6 +1,6 @@
-i0# hospital-management-system
+# hospital-management-system Author-Pratham Rajendra Tannirwar
 Hospital Management System in PHP – A complete web application to manage patient admissions, doctor scheduling, billing, and other hospital operations.
-# Hospital Management System (PHP)
+
 
 A full-featured web application to manage the complete process of hospital administration — from patient registration and admission to doctor scheduling, billing, and discharge.
 
